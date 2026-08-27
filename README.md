@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/PeterBushra/PeterBushra/main/assets/profile-terminal.svg" width="900" alt="Animated terminal profile" />
 
-<a href="https://github.com/PeterBushra"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;Software+Architecture+%7C+UX%2FUI+Engineering;C%23+%7C+.NET+%7C+C%2B%2B+%7C+WPF+%7C+MFC;Computer+Vision+%7C+AI%2FML+%7C+OpenCV;ASP.NET+%7C+Angular+%7C+React+%7C+Distributed+Systems;Azure+%7C+Docker+%7C+RabbitMQ+%7C+SQL+Server;OutSystems+%7C+Enterprise+Integration" alt="Typing animation" /></a>
+<a href="https://github.com/PeterBushra"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;Software+Architecture+%7C+Performance+Engineering;C%23+%7C+.NET+%7C+C%2B%2B+%7C+WPF+%7C+MFC;Computer+Vision+%7C+AI%2FML+%7C+OpenCV;ASP.NET+%7C+Angular+%7C+React+%7C+Distributed+Systems;Azure+%7C+Docker+%7C+RabbitMQ+%7C+SQL+Server;OutSystems+%7C+Enterprise+Integration" alt="Typing animation" /></a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-PeterBushra-111827?style=for-the-badge&logo=github)](https://github.com/PeterBushra)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter_Boshra-111827?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/peterboshra/)
@@ -13,85 +13,78 @@
 
 ## `> whoami`
 
-I am a **Senior Software Engineer** focused on building software that is technically strong, operationally reliable, and intuitive to use.
+I am a **Senior Software Engineer** focused on building software that is technically strong, performant, maintainable, and intuitive to use.
 
-My engineering approach combines **software architecture, UX/UI engineering, performance, computer vision, AI/ML, enterprise integration and distributed systems**. I work across the stack because complex products rarely fit inside one layer of abstraction.
+My work spans **software architecture, high-performance desktop applications, enterprise .NET, C++, computer vision, AI/ML, modern web applications, distributed systems, GIS, cloud infrastructure and OutSystems**.
 
-I care about the complete path from **user workflow → interface → application architecture → data → services → deployment**.
+I care about the complete engineering path: **understand the problem → design the experience → architect the system → implement → measure → optimize → deploy**.
 
 ---
 
-<img src="https://raw.githubusercontent.com/PeterBushra/PeterBushra/main/assets/ux-ui-engineering.svg" width="900" alt="UX UI engineering visual" />
+## `WHAT.MAKES.ME.PROFESSIONAL`
 
-## `WHY.PETER_BUSHRA`
+<table>
+<tr><td width="50%">
+
+### 01 · SYSTEM THINKING
+I don't optimize a single layer while ignoring the rest. I understand how **UI, application logic, data, services, messaging, infrastructure and business rules** interact.
+
+### 02 · ARCHITECTURE
+I build around **clear boundaries, SOLID principles, separation of concerns and maintainable abstractions**. I can work with both modern architecture and established enterprise systems.
+
+### 03 · PERFORMANCE
+I care about measurable results. I use **profiling, optimization and bottleneck analysis** rather than assumptions — particularly across C++, .NET, computer vision, databases and distributed data flows.
+
+</td><td width="50%">
+
+### 04 · ENGINEERING + EXPERIENCE
+I pay attention to how software is actually used: **workflow clarity, responsiveness, feedback, consistency and error handling**. This is engineering quality, not a claim to be a UX designer.
+
+### 05 · LEGACY → MODERN
+I can understand and improve **legacy C++/MFC, VB6/VB.NET and .NET Framework systems** while progressively moving systems toward modern WPF, .NET and service-oriented architectures.
+
+### 06 · CROSS-DOMAIN DEPTH
+My range is deliberate: **desktop + backend + web + CV + AI + data + messaging + cloud + low-code**. This lets me solve problems across boundaries instead of optimizing one isolated component.
+
+</td></tr>
+</table>
+
+### `THE ENGINEERING LOOP`
+
+<div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                         WHAT MAKES MY ENGINEERING DIFFERENT                  │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│  01  SYSTEM THINKING                                                        │
-│      I design beyond individual features. I understand how UI, services,    │
-│      data, infrastructure and business rules interact as one system.        │
-│                                                                              │
-│  02  UX + ENGINEERING                                                       │
-│      I treat UX as part of engineering. Clear workflows, predictable        │
-│      interactions, useful feedback and consistent interfaces reduce          │
-│      complexity for both users and developers.                              │
-│                                                                              │
-│  03  PERFORMANCE MINDSET                                                    │
-│      I profile and optimize real bottlenecks instead of optimizing by        │
-│      assumption — especially in C++, .NET, image processing and data flows.  │
-│                                                                              │
-│  04  LEGACY → MODERN                                                         │
-│      I can work inside legacy ecosystems while progressively improving       │
-│      architecture, maintainability and user experience without blindly      │
-│      rewriting everything.                                                   │
-│                                                                              │
-│  05  CROSS-DOMAIN ENGINEERING                                               │
-│      Desktop, web, backend, computer vision, AI, databases, messaging,      │
-│      cloud and low-code are tools in the same engineering system.            │
-│                                                                              │
-│  06  PRODUCTION THINKING                                                    │
-│      A solution is not finished when it compiles. Reliability, deployment,   │
-│      observability, integration, security and maintainability matter.        │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+  PROBLEM          ARCHITECTURE          IMPLEMENTATION
+     │                   │                      │
+     ▼                   ▼                      ▼
+  UNDERSTAND ───────► DESIGN ────────────► BUILD
+                                             │
+                                             ▼
+                                      MEASURE / TEST
+                                             │
+                                             ▼
+                                         OPTIMIZE
+                                             │
+                                             ▼
+                                          DEPLOY
+                                             │
+                                             └──────────────► REPEAT
 ```
 
-### `ENGINEERING.PRINCIPLES`
-
-**Architecture over accumulation.** I prefer deliberate boundaries, explicit responsibilities and systems that can evolve without becoming fragile.
-
-**UX over decoration.** A polished interface is useful only when it makes the underlying workflow faster, clearer and less error-prone.
-
-**Evidence over assumptions.** Performance decisions should come from profiling, measurements and production behavior.
-
-**Reuse over duplication.** Components, services, libraries and patterns should be designed for consistency and long-term maintenance.
-
-**Pragmatism over ideology.** Legacy code, modern frameworks, low-code platforms and native applications can coexist when the architecture makes the boundaries explicit.
-
-**Business outcome over technical novelty.** Technology is valuable when it solves the actual problem.
+</div>
 
 ---
 
-## `UX.UI.ENGINEERING`
+## `ENGINEERING.PHILOSOPHY`
 
-I bring UX/UI thinking directly into software engineering rather than treating design as a separate final stage.
+> **Good engineering is not about using the most technology. It is about choosing the right abstraction, making complexity explicit, and delivering software that remains reliable after the original developer has moved on.**
 
-| Capability | Engineering Application |
-|---|---|
-| **Information Architecture** | Organizing complex enterprise workflows and navigation |
-| **Interaction Design** | Predictable user flows, validation, states and feedback |
-| **UI Architecture** | Reusable components, consistency and maintainable interfaces |
-| **Desktop UX** | WPF, WinForms, DevExpress, MFC and industrial applications |
-| **Web UX** | Angular, React, TypeScript, responsive application interfaces |
-| **Design Systems** | Consistent patterns, components, states and visual hierarchy |
-| **Workflow Design** | Reducing unnecessary steps and cognitive load |
-| **Data Visualization** | Turning complex system data into actionable information |
-| **Error Handling UX** | Useful validation and actionable failure states |
-| **Performance UX** | Fast feedback, responsive interactions and efficient rendering |
-| **Accessibility Mindset** | Clear structure, readable interfaces and predictable interactions |
+- **Architecture over accumulation** — every dependency and abstraction should have a reason.
+- **Evidence over assumptions** — measure performance before optimizing it.
+- **Maintainability over cleverness** — readable systems outperform clever systems over time.
+- **Pragmatism over ideology** — legacy, modern frameworks, native code and low-code can coexist when boundaries are explicit.
+- **User workflow over decoration** — interface quality means clarity, responsiveness and reduced friction.
+- **Production over prototypes** — reliability, deployment, security, observability and failure handling are part of the implementation.
 
 ---
 
@@ -102,7 +95,7 @@ I bring UX/UI thinking directly into software engineering rather than treating d
                          │       USER           │
                          └──────────┬───────────┘
                                     │
-                         UX / UI / WORKFLOW
+                         EXPERIENCE / INTERFACE
                                     │
                  ┌──────────────────┴──────────────────┐
                  │                                     │
@@ -115,43 +108,19 @@ I bring UX/UI thinking directly into software engineering rather than treating d
                                     │
                            APPLICATION LAYER
                                     │
-                 ┌──────────────────┼──────────────────┐
-                 │                  │                  │
-            ┌────▼────┐       ┌─────▼─────┐      ┌────▼─────┐
-            │ SERVICES │       │ CV / AI   │      │ OUTSYSTEMS│
-            │ .NET/gRPC│       │OpenCV/ML  │      │ Enterprise│
-            └────┬────┘       └─────┬─────┘      └────┬─────┘
-                 │                  │                  │
-                 └──────────────────┼──────────────────┘
+          ┌─────────────────────────┼─────────────────────────┐
+          │                         │                         │
+     ┌────▼────┐              ┌─────▼─────┐            ┌──────▼─────┐
+     │ SERVICES │              │   CV / AI │            │ OUTSYSTEMS │
+     │ .NET/gRPC│              │ OpenCV/ML │            │ Enterprise │
+     └────┬────┘              └─────┬─────┘            └──────┬─────┘
+          │                         │                         │
+          └─────────────────────────┼─────────────────────────┘
                                     │
                          DATA / MESSAGING / CLOUD
                                     │
              SQL Server · RabbitMQ · Docker · Azure · IIS
 ```
-
----
-
-## `SYSTEM.INFO`
-
-| Area | Expertise |
-|---|---|
-| **Languages** | C#, C++, VB.NET, VB6, JavaScript, TypeScript, Python, SQL, Go |
-| **.NET** | .NET Framework, .NET Core, .NET 6, .NET 8, ASP.NET Core, MVC |
-| **Desktop** | WPF, WinForms, DevExpress, MFC, Win32, Windows Services |
-| **Web** | Angular, React.js, Razor, Node.js, Vite |
-| **UX/UI** | UX architecture, interaction design, component systems, workflow design, data visualization |
-| **Enterprise / Low-Code** | OutSystems, enterprise applications, integration |
-| **Architecture** | OOP, SOLID, Clean Architecture, Design Patterns, Microservices, Multi-Tenancy |
-| **Data Access** | Entity Framework, Dapper, ADO.NET |
-| **Databases** | SQL Server, MongoDB, Elasticsearch |
-| **Messaging** | RabbitMQ, MSMQ |
-| **RPC / Integration** | gRPC, Protobuf, REST APIs, COM |
-| **Computer Vision** | OpenCV, image processing, calibration, defect detection |
-| **AI / ML** | TensorFlow, PyTorch, Keras, NLP, Transformers, MLOps |
-| **GIS** | ArcGIS JavaScript SDK, map applications, spatial workflows |
-| **DevOps** | Git, GitHub Actions, Azure DevOps, Docker, IIS, CI/CD |
-| **Identity & Security** | OAuth, IdentityServer, UAE PASS |
-| **Cloud** | Microsoft Azure |
 
 ---
 
@@ -162,10 +131,10 @@ I bring UX/UI thinking directly into software engineering rather than treating d
 </p>
 
 ### Desktop / Microsoft
-`C#` · `.NET` · `WPF` · `WinForms` · `DevExpress` · `C++` · `MFC` · `Win32` · `VB.NET` · `VB6` · `Visual Studio`
+`C#` · `.NET Framework` · `.NET Core` · `.NET 6` · `.NET 8` · `WPF` · `WinForms` · `DevExpress` · `C++` · `MFC` · `Win32` · `VB.NET` · `VB6`
 
 ### Backend / Architecture
-`ASP.NET Core` · `ASP.NET MVC` · `REST` · `gRPC` · `Protobuf` · `Microservices` · `SOLID` · `Clean Architecture` · `Design Patterns`
+`ASP.NET Core` · `ASP.NET MVC` · `REST` · `gRPC` · `Protobuf` · `Microservices` · `OOP` · `SOLID` · `Clean Architecture` · `Design Patterns` · `Multi-Tenancy`
 
 ### Distributed Systems
 `RabbitMQ` · `MSMQ` · `Docker` · `Windows Services` · `CI/CD` · `Service Integration`
@@ -173,10 +142,10 @@ I bring UX/UI thinking directly into software engineering rather than treating d
 ### Data
 `SQL Server` · `Entity Framework` · `Dapper` · `ADO.NET` · `MongoDB` · `Elasticsearch` · `Data Modeling`
 
-### Frontend / UX
-`Angular` · `React.js` · `JavaScript` · `TypeScript` · `Razor` · `Node.js` · `Vite` · `Responsive UI` · `Component Design`
+### Frontend
+`Angular` · `React.js` · `JavaScript` · `TypeScript` · `Razor` · `Node.js` · `Vite`
 
-### AI / Computer Vision
+### Computer Vision / AI
 `OpenCV` · `TensorFlow` · `PyTorch` · `Keras` · `Transformers` · `NLP` · `Image Processing` · `Object Detection` · `Image Segmentation` · `Calibration` · `Defect Detection` · `MLOps`
 
 ### GIS / Low-Code / Cloud
@@ -190,29 +159,29 @@ I bring UX/UI thinking directly into software engineering rather than treating d
 ## `ENGINEERING.FOCUS`
 
 ```text
-[01] PRODUCT & UX ENGINEERING
-     User workflows · information architecture · interaction design · UI systems
+[01] SOFTWARE ARCHITECTURE
+     OOP · SOLID · Clean Architecture · Design Patterns · Modular Systems
 
 [02] HIGH-PERFORMANCE SOFTWARE
-     Native C++ / C# applications · profiling · optimization · image processing
+     Native C++ / C# · Profiling · Optimization · Image Processing
 
 [03] COMPUTER VISION
-     Industrial inspection · defect detection · calibration · image analysis
+     Industrial Inspection · Defect Detection · Calibration · Image Analysis
 
-[04] ENTERPRISE ARCHITECTURE
-     SOLID · modular systems · shared platforms · multi-tenancy · integration
+[04] ENTERPRISE APPLICATIONS
+     WPF · WinForms · ASP.NET · OutSystems · Integration · Multi-Tenancy
 
-[05] DISTRIBUTED APPLICATIONS
-     APIs · microservices · messaging · RPC · service integration · containers
+[05] DISTRIBUTED SYSTEMS
+     APIs · Microservices · RabbitMQ · MSMQ · gRPC · Docker
 
 [06] AI / MACHINE LEARNING
-     Computer vision · NLP · transformers · deep learning · production MLOps
+     Computer Vision · NLP · Transformers · Deep Learning · MLOps
 
 [07] FULL-STACK ENGINEERING
-     .NET · Angular · React · databases · authentication · GIS
+     .NET · Angular · React · SQL · Authentication · GIS
 
-[08] LOW-CODE ENTERPRISE DEVELOPMENT
-     OutSystems · enterprise workflows · integration
+[08] DEVOPS / PRODUCTION
+     Azure · IIS · Azure DevOps · GitHub Actions · CI/CD
 ```
 
 ---
@@ -257,9 +226,7 @@ I bring UX/UI thinking directly into software engineering rather than treating d
 ## `CONTRIBUTION.MATRIX`
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/PeterBushra/PeterBushra/gh-pages/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
-
 </div>
 
 ---
@@ -269,15 +236,15 @@ I bring UX/UI thinking directly into software engineering rather than treating d
 ```text
 $ ./PeterBushra.exe --mode=engineering
 
-[OK] UX/UI architecture loaded
-[OK] Software architecture loaded
+[OK] Architecture loaded
+[OK] Performance mindset enabled
 [OK] .NET subsystem initialized
 [OK] C++ subsystem initialized
 [OK] Computer Vision modules loaded
 [OK] AI/ML modules loaded
 [OK] OutSystems integration loaded
 [OK] Distributed systems ready
-[OK] Production mindset enabled
+[OK] Production engineering enabled
 
 > SYSTEM READY_
 ```
