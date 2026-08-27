@@ -2,9 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/PeterBushra/PeterBushra/main/assets/profile-terminal.svg" width="900" alt="Animated terminal profile" />
 
-<br />
-
-### `Senior Software Engineer` · `.NET` · `C++` · `Computer Vision` · `AI/ML` · `OutSystems`
+<a href="https://github.com/PeterBushra"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;C%23+%7C+.NET+%7C+C%2B%2B+%7C+WPF+%7C+MFC;Computer+Vision+%7C+AI%2FML+%7C+OpenCV;ASP.NET+%7C+Angular+%7C+React+%7C+Distributed+Systems;Azure+%7C+Docker+%7C+RabbitMQ+%7C+SQL+Server;OutSystems+%7C+Enterprise+Integration" alt="Typing animation" /></a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-PeterBushra-111827?style=for-the-badge&logo=github)](https://github.com/PeterBushra)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter_Boshra-111827?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/peterboshra/)
@@ -159,7 +157,7 @@ I build **desktop, enterprise, distributed and intelligent software systems**, s
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PeterBushra/PeterBushra/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
+<img src="https://raw.githubusercontent.com/PeterBushra/PeterBushra/gh-pages/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
 
 </div>
 
