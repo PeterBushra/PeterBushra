@@ -177,7 +177,7 @@ My work spans from **native Windows and industrial computer-vision applications*
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/PeterBushra/PeterBushra/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/PeterBushra/PeterBushra/gh-pages/github-contribution-grid-snake.svg)
 
 </div>
 
