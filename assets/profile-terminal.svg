@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05070a"/><stop offset="1" stop-color="#0b1117"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#123322" stroke-width="1" opacity=".35"/></pattern>
+  <style>
+    .g{fill:#00ff9c;font-family:monospace;font-size:17px}
+    .w{fill:#d7ffe9;font-family:monospace;font-size:17px}
+    .m{fill:#67ffbc;font-family:monospace;font-size:15px}
+    .dim{fill:#628275;font-family:monospace;font-size:13px}
+    .cursor{animation:blink 1s steps(1) infinite}
+    .scan{animation:scan 5s linear infinite}
+    .pulse{animation:pulse 2s ease-in-out infinite}
+    @keyframes blink{50%{opacity:0}}
+    @keyframes pulse{50%{opacity:.35}}
+    @keyframes scan{0%{transform:translateY(-15px)}100%{transform:translateY(445px)}}
+    .line1{animation:type1 8s steps(1) infinite}.line2{animation:type2 8s steps(1) infinite}.line3{animation:type3 8s steps(1) infinite}.line4{animation:type4 8s steps(1) infinite}
+    @keyframes type1{0%,12%{opacity:0}15%,100%{opacity:1}}
+    @keyframes type2{0%,28%{opacity:0}31%,100%{opacity:1}}
+    @keyframes type3{0%,44%{opacity:0}47%,100%{opacity:1}}
+    @keyframes type4{0%,60%{opacity:0}63%,100%{opacity:1}}
+  </style>
+</defs>
+<rect width="900" height="430" rx="16" fill="url(#bg)" stroke="#00ff9c" stroke-width="2"/>
+<rect x="1" y="1" width="898" height="428" rx="15" fill="url(#grid)"/>
+<circle cx="24" cy="24" r="6" fill="#ff5f56"/><circle cx="45" cy="24" r="6" fill="#ffbd2e"/><circle cx="66" cy="24" r="6" fill="#27c93f"/>
+<text x="95" y="29" class="dim">PETER_BUSHRA :: SYSTEM TERMINAL</text>
+<line x1="20" y1="48" x2="880" y2="48" stroke="#153b2a"/>
+<text x="28" y="82" class="g" filter="url(#glow)">$ ./PeterBushra.exe --initialize</text>
+<text x="28" y="113" class="w line1">[OK] loading engineering profile...</text>
+<text x="28" y="144" class="w line2">[OK] .NET / C# / C++ subsystems online</text>
+<text x="28" y="175" class="w line3">[OK] Computer Vision / AI / ML modules online</text>
+<text x="28" y="206" class="w line4">[OK] OutSystems / Cloud / Distributed Systems online</text>
+<text x="28" y="250" class="m">ROLE :: SENIOR SOFTWARE ENGINEER</text>
+<text x="28" y="278" class="m">FOCUS :: ARCHITECTURE · PERFORMANCE · INTELLIGENT SYSTEMS</text>
+<text x="28" y="306" class="m">STACK :: WPF · ASP.NET · ANGULAR · OPENCV · PYTORCH</text>
+<text x="28" y="334" class="m">       RABBITMQ · DOCKER · SQL SERVER · AZURE · OUTSYSTEMS</text>
+<text x="28" y="374" class="g pulse">STATUS :: SYSTEM READY</text>
+<text x="28" y="403" class="g">$ <tspan class="cursor">█</tspan></text>
+<rect class="scan" x="15" y="0" width="870" height="2" fill="#00ff9c" opacity=".18"/>
+</svg>
