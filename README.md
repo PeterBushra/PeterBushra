@@ -188,23 +188,19 @@ My range is deliberate: **desktop + backend + web + CV + AI + data + messaging +
 
 ## `SELECTED.PROJECTS`
 
+Only public repositories are linked below, so the profile does not expose dead or inaccessible repository links.
+
 | Project | Area |
 |---|---|
-| **OpenCV-ToolBox** | Computer vision / image processing |
-| **SensorFusionEnterprise** | Computer vision / enterprise engineering |
-| **TransformersHF** | NLP / Transformers |
-| **Speech-To-Speech-Translator** | AI / speech / translation |
-| **MLOps** | Machine learning operations |
-| **Map-Lib** | GIS / ArcGIS |
-| **my-arcgis-app** | Web GIS / Angular |
-| **EShopMicroservices** | Microservices / .NET |
-| **ASP-Auth-Sample** | ASP.NET / authentication |
-| **EF8** | Entity Framework / .NET |
-| **DeepDiveASPMvc** | ASP.NET MVC |
-| **WPF** | Desktop / WPF |
-| **NER** | NLP / Named Entity Recognition |
-| **image-segmentation-unet** | Deep learning / computer vision |
-| **object-detection-yolo** | Object detection |
+| [**OpenCV-ToolBox**](https://github.com/PeterBushra/OpenCV-ToolBox) | Computer vision / image processing |
+| [**SensorFusionEnterprise**](https://github.com/PeterBushra/SensorFusionEnterprise) | Computer vision / enterprise engineering |
+| [**TransformersHF**](https://github.com/PeterBushra/TransformersHF) | NLP / Transformers |
+| [**Speech-To-Speech-Translator**](https://github.com/PeterBushra/Speech-To-Speech-Translator) | AI / speech / translation |
+| [**MLOps**](https://github.com/PeterBushra/MLOps) | Machine learning operations |
+| [**NER**](https://github.com/PeterBushra/NER) | NLP / Named Entity Recognition |
+| [**WPF**](https://github.com/PeterBushra/WPF) | Desktop / WPF |
+| [**image-segmentation-unet**](https://github.com/PeterBushra/image-segmentation-unet) | Deep learning / computer vision |
+| [**object-detection-yolo**](https://github.com/PeterBushra/object-detection-yolo) | Object detection |
 
 ---
 
@@ -219,14 +215,6 @@ My range is deliberate: **desktop + backend + web + CV + AI + data + messaging +
 
 <img src="https://streak-stats.demolab.com?user=PeterBushra&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
 
-</div>
-
----
-
-## `CONTRIBUTION.MATRIX`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/PeterBushra/PeterBushra/gh-pages/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
 </div>
 
 ---
