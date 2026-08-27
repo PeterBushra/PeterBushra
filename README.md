@@ -1,20 +1,10 @@
 <div align="center">
 
-# `PETER_BUSHRA.exe`
+<img src="https://raw.githubusercontent.com/PeterBushra/PeterBushra/main/assets/profile-terminal.svg" width="900" alt="Animated terminal profile" />
 
-### Senior Software Engineer · .NET · C++ · Computer Vision · AI · OutSystems
+<br />
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ SYSTEM.IDENTITY                                                             │
-├──────────────────────────────────────────────────────────────────────────────┤
-│ NAME        :: Peter Boshra                                                 │
-│ ROLE        :: Senior Software Engineer                                     │
-│ DOMAIN      :: Enterprise Software / Computer Vision / AI                   │
-│ STACK       :: .NET + C++ + Web + Data + ML + Low-Level Windows             │
-│ FOCUS       :: Architecture · Performance · Automation · Intelligent Apps   │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+### `Senior Software Engineer` · `.NET` · `C++` · `Computer Vision` · `AI/ML` · `OutSystems`
 
 [![GitHub](https://img.shields.io/badge/GitHub-PeterBushra-111827?style=for-the-badge&logo=github)](https://github.com/PeterBushra)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter_Boshra-111827?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/peterboshra/)
@@ -25,25 +15,23 @@
 
 ## `> whoami`
 
-I build **desktop, enterprise, distributed and intelligent software systems**, with a strong focus on the Microsoft ecosystem and C++/C# engineering.
-
-My work spans from **native Windows and industrial computer-vision applications** to **ASP.NET services, modern web applications, distributed systems, AI/ML pipelines and low-code enterprise platforms**.
+I build **desktop, enterprise, distributed and intelligent software systems**, spanning native Windows applications, industrial computer vision, enterprise .NET, modern web applications, AI/ML, GIS, cloud infrastructure and low-code platforms.
 
 ```text
 ┌─ ENGINEERING_PROFILE ───────────────────────────────────────────────────────┐
 │                                                                              │
-│  SOFTWARE ARCHITECTURE       SOLID · OOP · Design Patterns · Clean Code      │
-│  DESKTOP ENGINEERING         WPF · WinForms · DevExpress · MFC · Win32       │
-│  BACKEND ENGINEERING         ASP.NET Core · MVC · APIs · gRPC · Protobuf      │
-│  DISTRIBUTED SYSTEMS         Microservices · RabbitMQ · MSMQ · Docker        │
-│  DATA ENGINEERING            SQL Server · EF · Dapper · ADO.NET · MongoDB     │
-│  COMPUTER VISION             OpenCV · Image Processing · Calibration         │
-│  AI / MACHINE LEARNING       TensorFlow · PyTorch · Keras · NLP · MLOps      │
-│  WEB DEVELOPMENT             Angular · React · JavaScript · Node.js · Vite   │
-│  GIS                         ArcGIS JavaScript SDK · Mapping                  │
-│  LOW-CODE                    OutSystems                                       │
-│  CLOUD / DEVOPS              Azure · IIS · GitHub Actions · Azure DevOps     │
-│  SECURITY / IDENTITY         OAuth · IdentityServer · UAE PASS               │
+│ SOFTWARE ARCHITECTURE       OOP · SOLID · Clean Architecture · Patterns     │
+│ DESKTOP ENGINEERING         WPF · WinForms · DevExpress · MFC · Win32       │
+│ BACKEND ENGINEERING         ASP.NET Core · MVC · REST · gRPC · Protobuf      │
+│ DISTRIBUTED SYSTEMS         Microservices · RabbitMQ · MSMQ · Docker        │
+│ DATA ENGINEERING            SQL Server · EF · Dapper · ADO.NET · MongoDB     │
+│ COMPUTER VISION             OpenCV · Calibration · Defect Detection         │
+│ AI / MACHINE LEARNING       TensorFlow · PyTorch · Keras · NLP · MLOps      │
+│ WEB DEVELOPMENT             Angular · React · TypeScript · Node · Vite      │
+│ GIS                         ArcGIS JavaScript SDK · Mapping                  │
+│ LOW-CODE                    OutSystems · Enterprise Integration              │
+│ CLOUD / DEVOPS              Azure · IIS · GitHub Actions · Azure DevOps     │
+│ SECURITY / IDENTITY         OAuth · IdentityServer · UAE PASS               │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -52,14 +40,14 @@ My work spans from **native Windows and industrial computer-vision applications*
 
 | Area | Expertise |
 |---|---|
-| **Languages** | C#, C++, VB.NET, VB6, JavaScript, Python, SQL, Go |
+| **Languages** | C#, C++, VB.NET, VB6, JavaScript, TypeScript, Python, SQL, Go |
 | **.NET** | .NET Framework, .NET Core, .NET 6, .NET 8, ASP.NET Core, MVC |
 | **Desktop** | WPF, WinForms, DevExpress, MFC, Win32, Windows Services |
 | **Web** | Angular, React.js, Razor, Node.js, Vite |
 | **Enterprise / Low-Code** | OutSystems, enterprise application development, integration |
 | **Architecture** | OOP, SOLID, Clean Architecture, Design Patterns, Microservices, Multi-Tenancy |
 | **Data Access** | Entity Framework, Dapper, ADO.NET |
-| **Databases** | SQL Server, MongoDB |
+| **Databases** | SQL Server, MongoDB, Elasticsearch |
 | **Messaging** | RabbitMQ, MSMQ |
 | **RPC / Integration** | gRPC, Protobuf, REST APIs, COM |
 | **Computer Vision** | OpenCV, image processing, calibration, defect detection |
@@ -73,39 +61,33 @@ My work spans from **native Windows and industrial computer-vision applications*
 
 ## `TECH.STACK`
 
-### Core Engineering
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,python,java,go,js,ts" alt="Core technologies" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,python,java,go,js,ts,angular,react,nodejs,docker,git,github,azure,mysql,mongodb,rabbitmq" alt="Technology stack" />
 </p>
 
-### Desktop & Microsoft Stack
+### Desktop / Microsoft
+`C#` · `.NET` · `WPF` · `WinForms` · `DevExpress` · `C++` · `MFC` · `Win32` · `VB.NET` · `VB6` · `Visual Studio`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,windows" alt="Microsoft stack" />
-</p>
+### Backend / Architecture
+`ASP.NET Core` · `ASP.NET MVC` · `REST` · `gRPC` · `Protobuf` · `Microservices` · `SOLID` · `Clean Architecture` · `Design Patterns`
 
-`WPF` · `WinForms` · `DevExpress` · `MFC` · `Win32` · `C++` · `C#` · `VB.NET` · `VB6`
-
-### Backend & Distributed Systems
-
-`ASP.NET Core` · `ASP.NET MVC` · `REST` · `gRPC` · `Protobuf` · `RabbitMQ` · `MSMQ` · `Microservices` · `Docker`
+### Distributed Systems
+`RabbitMQ` · `MSMQ` · `Docker` · `Windows Services` · `CI/CD` · `Service Integration`
 
 ### Data
-
 `SQL Server` · `Entity Framework` · `Dapper` · `ADO.NET` · `MongoDB` · `Elasticsearch` · `Data Modeling`
 
 ### Frontend
-
 `Angular` · `React.js` · `JavaScript` · `TypeScript` · `Razor` · `Node.js` · `Vite`
 
 ### AI / Computer Vision
+`OpenCV` · `TensorFlow` · `PyTorch` · `Keras` · `Transformers` · `NLP` · `Image Processing` · `Object Detection` · `Image Segmentation` · `Calibration` · `Defect Detection` · `MLOps`
 
-`OpenCV` · `TensorFlow` · `PyTorch` · `Keras` · `Transformers` · `NLP` · `Image Processing` · `Object Detection` · `Image Segmentation` · `Computer Vision` · `MLOps`
+### GIS / Low-Code / Cloud
+`ArcGIS JavaScript SDK` · `OutSystems` · `Azure` · `IIS` · `Azure DevOps` · `GitHub Actions`
 
-### GIS / Platforms / DevOps
-
-`ArcGIS JavaScript SDK` · `OutSystems` · `Azure` · `IIS` · `GitHub Actions` · `Azure DevOps` · `Git`
+### Identity / Integration
+`OAuth` · `IdentityServer` · `UAE PASS` · `COM` · `REST APIs` · `gRPC`
 
 ---
 
@@ -125,13 +107,13 @@ My work spans from **native Windows and industrial computer-vision applications*
      APIs, microservices, messaging, RPC, service integration and containerization
 
 [05] AI / MACHINE LEARNING
-     Computer vision, NLP, transformers, deep learning and production-oriented MLOps
+     Computer vision, NLP, transformers, deep learning and production MLOps
 
 [06] FULL-STACK ENGINEERING
      .NET backends, Angular/React frontends, databases, authentication and GIS
 
 [07] LOW-CODE ENTERPRISE DEVELOPMENT
-     OutSystems application development and integration with enterprise systems
+     OutSystems applications, enterprise workflows and system integration
 ```
 
 ---
@@ -177,7 +159,7 @@ My work spans from **native Windows and industrial computer-vision applications*
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/PeterBushra/PeterBushra/gh-pages/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/PeterBushra/PeterBushra/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
 
 </div>
 
@@ -185,23 +167,9 @@ My work spans from **native Windows and industrial computer-vision applications*
 
 ## `CONTACT`
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│ GitHub   :: github.com/PeterBushra                          │
-│ LinkedIn :: linkedin.com/in/peterboshra                     │
-│ Status   :: BUILDING                                        │
-└─────────────────────────────────────────────────────────────┘
-```
-
 <div align="center">
 
-[GitHub](https://github.com/PeterBushra) · [LinkedIn](https://www.linkedin.com/in/peterboshra/)
-
-</div>
-
----
-
-<div align="center">
+`github.com/PeterBushra` · `linkedin.com/in/peterboshra`
 
 ```text
 $ ./PeterBushra.exe --mode=engineering
@@ -214,7 +182,7 @@ $ ./PeterBushra.exe --mode=engineering
 [OK] OutSystems integration loaded
 [OK] Distributed systems ready
 
-> SYSTEM READY
+> SYSTEM READY_
 ```
 
 </div>
