@@ -265,23 +265,22 @@ graph TD
 
 ## `SELECTED.PROJECTS`
 
-A snapshot of the public work that represents different parts of my engineering range.
+A focused set of public projects chosen to demonstrate **engineering depth rather than project count**.
 
 <div align="center">
 
-| Repository | Domain |
+| Repository | Engineering Signal |
 |:---|:---|
-| [**OpenCV-ToolBox**](https://github.com/PeterBushra/OpenCV-ToolBox) | Computer Vision / Image Processing |
-| [**SensorFusionEnterprise**](https://github.com/PeterBushra/SensorFusionEnterprise) | CV / Enterprise Engineering |
-| [**TransformersHF**](https://github.com/PeterBushra/TransformersHF) | NLP / Transformers |
-| [**Speech-To-Speech-Translator**](https://github.com/PeterBushra/Speech-To-Speech-Translator) | AI / Speech / Translation |
-| [**MLOps**](https://github.com/PeterBushra/MLOps) | Machine Learning Operations |
-| [**NER**](https://github.com/PeterBushra/NER) | NLP / Named Entity Recognition |
-| [**WPF**](https://github.com/PeterBushra/WPF) | Desktop / WPF |
-| [**image-segmentation-unet**](https://github.com/PeterBushra/image-segmentation-unet) | Deep Learning / Segmentation |
-| [**object-detection-yolo**](https://github.com/PeterBushra/object-detection-yolo) | Computer Vision / Detection |
+| [**OpenCV-ToolBox**](https://github.com/PeterBushra/OpenCV-ToolBox) | Computer Vision · Image Processing |
+| [**SensorFusionEnterprise**](https://github.com/PeterBushra/SensorFusionEnterprise) | Computer Vision · Enterprise Engineering |
+| [**MLOps**](https://github.com/PeterBushra/MLOps) | ML Engineering · Production Workflows |
+| [**Speech-To-Speech-Translator**](https://github.com/PeterBushra/Speech-To-Speech-Translator) | AI · Speech · Translation |
+| [**TransformersHF**](https://github.com/PeterBushra/TransformersHF) | NLP · Transformers |
+| [**Signara**](https://github.com/PeterBushra/Signara) | Real-Time Arabic Sign Language · AI |
 
 </div>
+
+> Beginner exercises, tutorial repositories, empty/placeholder projects and low-signal experiments are intentionally excluded from the profile highlights.
 
 ---
 
